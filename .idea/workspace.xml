@@ -1,0 +1,832 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/test/java/src/Options/MainRunner.java" line="17" mnemonic="9" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d91920a9-1390-4271-b287-880dcaa521fd" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/autoBDD$Feature__Login.ic" NAME="Feature: Login Coverage Results" MODIFIED="1558960675320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cucumber.api.cli.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-824348194">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="17" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.2" value="3" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.38" value="1" />
+          <entry key="project.open.time.4" value="4" />
+          <entry key="project.open.time.41" value="1" />
+          <entry key="project.open.time.5" value="3" />
+          <entry key="project.open.time.50" value="1" />
+          <entry key="project.open.time.54" value="1" />
+          <entry key="project.opened" value="18" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="3" />
+          <entry key="feature" value="12" />
+          <entry key="features" value="1" />
+          <entry key="html" value="1" />
+          <entry key="iml" value="2" />
+          <entry key="java" value="68" />
+          <entry key="js" value="1" />
+          <entry key="json" value="3" />
+          <entry key="xml" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="3" />
+          <entry key="Cucumber" value="13" />
+          <entry key="HTML" value="1" />
+          <entry key="IDEA_MODULE" value="2" />
+          <entry key="JAVA" value="68" />
+          <entry key="JSON" value="3" />
+          <entry key="JavaScript" value="1" />
+          <entry key="XML" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="feature" value="812" />
+          <entry key="features" value="421" />
+          <entry key="html" value="305" />
+          <entry key="java" value="4074" />
+          <entry key="xml" value="218" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Cucumber" value="1233" />
+          <entry key="HTML" value="305" />
+          <entry key="JAVA" value="4074" />
+          <entry key="XML" value="218" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/src/JSONObject.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2448">
+              <caret line="153" column="39" selection-start-line="153" selection-start-column="39" selection-end-line="153" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TestNG Test Class" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/java/src/Start.java" />
+        <option value="$PROJECT_DIR$/src/main/java/OptionsPanel.java" />
+        <option value="$PROJECT_DIR$/src/test/java/src/ContactUs.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Preconditions/InitDrivers.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Loops.java" />
+        <option value="$PROJECT_DIR$/src/test/Feature Scenatios/Feature/Login.features" />
+        <option value="$PROJECT_DIR$/src/test/java/src/SDETUniversity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/stepsFeature/LoginSteps.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Cucumber/stepsFeature/LoginSteps.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Cucumber/stepsFeature/Options/MainRunner.java" />
+        <option value="$PROJECT_DIR$/src/test/java/src/stepsFeature/LoginSteps.java" />
+        <option value="$PROJECT_DIR$/src/test/java/src/Feature/stackLogin.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/GetDataFromServerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/GetDataFromServer.java" />
+        <option value="$PROJECT_DIR$/src/test/java/src/steps/LoginSteps.java" />
+        <option value="$PROJECT_DIR$/src/test/java/src/ApiRequest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/src/Feature/ResetReqField.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/src/steps/SumbitContactUs.java" />
+        <option value="$PROJECT_DIR$/src/test/java/src/Feature/WDUniContactUs.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/src/Options/MainRunner.java" />
+        <option value="$PROJECT_DIR$/src/test/java/src/Archive/LoginSteps.java" />
+        <option value="$PROJECT_DIR$/jsSection/script.js" />
+        <option value="$PROJECT_DIR$/jsSection/index.html" />
+        <option value="$PROJECT_DIR$/src/main/java/Sorting.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DynamicPP.java" />
+        <option value="$PROJECT_DIR$/src/test/java/src/GetDataFromServerTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/src/API/TestApi.java" />
+        <option value="$PROJECT_DIR$/src/test/java/src/WebDriverUni/WDUniContactUs.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/src/steps/ContactUsForm.java" />
+        <option value="$PROJECT_DIR$/src/main/java/UI/ContactUsPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/src/API/Test.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/testng.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/src/API/PokemonApi.java" />
+        <option value="$PROJECT_DIR$/src/test/java/src/JSONObject.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="autoBDD" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Code style issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Control flow issuesJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>Reactor</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="autoBDD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="autoBDD" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="autoBDD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="autoBDD" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="autoBDD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="autoBDD" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="autoBDD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="autoBDD" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="autoBDD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="autoBDD" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="UI" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="autoBDD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="autoBDD" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="autoBDD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="autoBDD" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="drivers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="autoBDD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="autoBDD" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="autoBDD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="autoBDD" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="autoBDD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="autoBDD" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560178245126" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="TestNG" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.TestNG" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Dmitry.Nahliuk\IdeaProjects\autoBDD\src\test\java\src\WebDriverUni" />
+      <recent name="C:\Users\Dmitry.Nahliuk\IdeaProjects\autoBDD\src\test\java" />
+      <recent name="C:\Users\Dmitry.Nahliuk\IdeaProjects\autoBDD\src\test" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Dmitry.Nahliuk\IdeaProjects\autoBDD\src\test\java\src" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.JSONObject">
+    <configuration name="JSONObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.JSONObject" />
+      <module name="autoBDD" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginPage" type="JUnit" factoryName="JUnit">
+      <module name="autoBDD" />
+      <option name="PACKAGE_NAME" value="src.Options" />
+      <option name="MAIN_CLASS_NAME" value="src.Options.MainRunner" />
+      <option name="METHOD_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PokemonApi" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="autoBDD" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.API.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="src.API" />
+      <option name="MAIN_CLASS_NAME" value="src.API.PokemonApi" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PokemonApi.firstRequest (1)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="autoBDD" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.API.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="src.API" />
+      <option name="MAIN_CLASS_NAME" value="src.API.PokemonApi" />
+      <option name="METHOD_NAME" value="firstRequest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PokemonApi.firstRequest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="autoBDD" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.API.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="src.API" />
+      <option name="MAIN_CLASS_NAME" value="src.API.PokemonApi" />
+      <option name="METHOD_NAME" value="firstRequest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PokemonApi.getRequestExampleTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="autoBDD" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.API.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="src.API" />
+      <option name="MAIN_CLASS_NAME" value="src.API.PokemonApi" />
+      <option name="METHOD_NAME" value="getRequestExampleTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.LoginPage" />
+      <item itemvalue="TestNG.PokemonApi" />
+      <item itemvalue="TestNG.PokemonApi.getRequestExampleTest" />
+      <item itemvalue="TestNG.PokemonApi.firstRequest" />
+      <item itemvalue="TestNG.PokemonApi.firstRequest (1)" />
+      <item itemvalue="Application.JSONObject" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.JSONObject" />
+        <item itemvalue="TestNG.PokemonApi.firstRequest" />
+        <item itemvalue="TestNG.PokemonApi" />
+        <item itemvalue="TestNG.PokemonApi.firstRequest (1)" />
+        <item itemvalue="TestNG.PokemonApi.getRequestExampleTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Dmitry.Nahliuk\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d91920a9-1390-4271-b287-880dcaa521fd" name="Default Changelist" comment="" />
+      <created>1557924505852</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557924505852</updated>
+      <workItem from="1557924510781" duration="1049000" />
+      <workItem from="1557926226558" duration="5437000" />
+      <workItem from="1557938527880" duration="852000" />
+      <workItem from="1557992406590" duration="442000" />
+      <workItem from="1558421736700" duration="1024000" />
+      <workItem from="1558612224190" duration="619000" />
+      <workItem from="1558940662443" duration="3224000" />
+      <workItem from="1558955548483" duration="7398000" />
+      <workItem from="1558967932299" duration="11761000" />
+      <workItem from="1559110884934" duration="164000" />
+      <workItem from="1559111117682" duration="5003000" />
+      <workItem from="1559197923098" duration="1068000" />
+      <workItem from="1559199039525" duration="3415000" />
+      <workItem from="1559212113733" duration="1986000" />
+      <workItem from="1559286423804" duration="2400000" />
+      <workItem from="1559743873734" duration="3282000" />
+      <workItem from="1560174662644" duration="3703000" />
+      <workItem from="1560244207269" duration="661000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="PokemonApi_firstRequest - 2019.06.05 at 17h 28m 56s.xml">
+      <configuration name="PokemonApi.firstRequest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="PokemonApi_firstRequest - 2019.06.05 at 17h 29m 59s.xml">
+      <configuration name="PokemonApi.firstRequest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="PokemonApi_firstRequest_(1) - 2019.06.05 at 17h 30m 42s.xml">
+      <configuration name="PokemonApi.firstRequest (1)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="PokemonApi_firstRequest - 2019.06.05 at 18h 03m 48s.xml">
+      <configuration name="PokemonApi.firstRequest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="PokemonApi_firstRequest - 2019.06.05 at 18h 04m 25s.xml">
+      <configuration name="PokemonApi.firstRequest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="PokemonApi_firstRequest - 2019.06.05 at 18h 04m 52s.xml">
+      <configuration name="PokemonApi.firstRequest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="PokemonApi_firstRequest - 2019.06.05 at 18h 05m 27s.xml">
+      <configuration name="PokemonApi.firstRequest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="PokemonApi - 2019.06.05 at 18h 16m 52s.xml">
+      <configuration name="PokemonApi" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="PokemonApi - 2019.06.10 at 16h 55m 06s.xml">
+      <configuration name="PokemonApi" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="PokemonApi_firstRequest - 2019.06.10 at 16h 56m 09s.xml">
+      <configuration name="PokemonApi.firstRequest" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="53488000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26979867" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32907802" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4154013" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32907802" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3248227" />
+      <window_info anchor="bottom" id="Spring" order="12" />
+      <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" sideWeight="0.49874055" weight="0.3295302" />
+      <window_info anchor="right" id="Coverage" order="9" sideWeight="0.50125945" side_tool="true" weight="0.3295302" />
+      <window_info anchor="right" id="SciView" order="10" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/HelpPage.feature" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/src/Start.java" />
+    <entry file="file://$PROJECT_DIR$/autoBDD.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/infoPage.feature" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/OptionsPanel.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Loops.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/src/SDETUniversity.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Preconditions/InitDrivers.java" />
+    <entry file="file://$PROJECT_DIR$/target/cucumber.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/src/Feature/Login.features" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/GetDataFromServer.java" />
+    <entry file="file://$PROJECT_DIR$/../TestLimits/pom.xml" />
+    <entry file="jar://C:/Program Files/Java/jdk-11/lib/src.zip!/java.base/java/net/URL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-967">
+          <caret line="150" column="19" selection-start-line="150" selection-start-column="19" selection-end-line="150" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11/lib/src.zip!/java.base/java/net/HttpURLConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2157">
+          <caret line="68" column="57" selection-start-line="68" selection-start-column="57" selection-end-line="68" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/src/Feature/ResetReqField.feature" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/src/steps/SumbitContactUs.java" />
+    <entry file="file://$PROJECT_DIR$/jsSection/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="21" column="17" lean-forward="true" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsSection/script.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Sorting.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/DynamicPP.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/src/API/TestApi.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/src/WebDriverUni/WDUniContactUs.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/Test.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/Test.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/json/json/20180130/json-20180130.jar!/org/json/JSONArray.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="209" column="22" selection-start-line="209" selection-start-column="22" selection-end-line="209" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/src/API/Test.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/io/rest-assured/rest-assured/3.0.7/rest-assured-3.0.7.jar!/io/restassured/response/ValidatableResponseOptions.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2180">
+          <caret line="122" column="4" lean-forward="true" selection-start-line="122" selection-start-column="4" selection-end-line="122" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/src/API/PokemonApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="75" selection-start-line="14" selection-start-column="75" selection-end-line="14" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/UI/ContactUsPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="18" column="40" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/src/Archive/LoginSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/src/Feature/stackLogin.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/src/Options/MainRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="25" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/src/ApiRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="25" column="18" lean-forward="true" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/src/ContactUs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="e#786#811#0" expanded="true" />
+            <element signature="e#878#903#0" expanded="true" />
+            <element signature="e#993#1045#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/src/GetDataFromServerTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/src/steps/ContactUsForm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11/lib/src.zip!/java.base/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="813" column="5" lean-forward="true" selection-start-line="813" selection-start-column="5" selection-end-line="813" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TestLimits/src/main/java/GetDataFromServer.java" />
+    <entry file="file://$PROJECT_DIR$/../TestLimits/src/test/java/TestCurrencies.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/src/sw_gg.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/src/JSONObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2448">
+          <caret line="153" column="39" selection-start-line="153" selection-start-column="39" selection-end-line="153" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>autoBDD</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
